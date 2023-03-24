@@ -1,8 +1,10 @@
 /*  your css code here. If applicable */
 .container{
-background-color :#ADD8E6;
-border: 2px solid black;
-display :inline-bloack;
-padding: 100px;
-color : purple;
+    color: purple;
+    background-color: lightblue;
+    font-size: 10px;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+	display: inline-block;
 }
